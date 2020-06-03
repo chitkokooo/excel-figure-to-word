@@ -14,3 +14,8 @@ B2 သည် ဆဲလ်ကွက်အမည်ဖြစ်ပြီး ကြ
 
 ## Youtube Link
 https://www.youtube.com/watch?v=h7wvLbcWmfQ
+
+
+## သတိပြုရန်
+
+figure-to-word.vb file လေ့လာနိုင်ရန်အတွက် အပိုထည့်ပေးထားခြင်း ဖြစ်ပါသည်။
