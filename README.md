@@ -1,6 +1,6 @@
 # excel-figure-to-word
 
-Excel နှင့် VBA ကိုပေါင်းစပ်ပြီး ရေးသားထားတာပါ
+Excel နှင့် VB Language ကိုပေါင်းစပ်ပြီး ရေးသားထားတာပါ
 
 Pyidaungsu font အသုံးပြုထားပါတယ်။
 
