@@ -10,4 +10,5 @@ Pyidaungsu font အသုံးပြုထားပါတယ်။
 
 `=ConvertFigureToWord(B2)`
 
-[![အသုံးပြုနည်း]({https://www.youtube.com/watch?v=h7wvLbcWmfQ})]({https://www.youtube.com/watch?v=h7wvLbcWmfQ} "Figure to Word")
+## Youtube Link
+https://www.youtube.com/watch?v=h7wvLbcWmfQ
